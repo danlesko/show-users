@@ -1,0 +1,72 @@
+[
+  {
+    "username": "superman",
+    "role": "admin",
+    "minPasswordLength": 12,
+    "location": "USA",
+    "inUse": true
+  },
+  {
+    "username": "batman",
+    "role": "read",
+    "minPasswordLength": 2,
+    "location": "CN",
+    "inUse": false
+  },
+  {
+    "username": "thor",
+    "role": "super hero",
+    "minPasswordLength": 2,
+    "location": "India",
+    "inUse": false
+  },
+  {
+    "username": "jeff",
+    "role": "read",
+    "minPasswordLength": 2,
+    "location": "IDK",
+    "inUse": false
+  },
+  {
+    "username": "mark",
+    "role": "little brother",
+    "minPasswordLength": 2,
+    "location": "wherever",
+    "inUse": false
+  },
+  {
+    "username": "carl",
+    "role": "big brother",
+    "minPasswordLength": 2,
+    "location": "somewhere",
+    "inUse": false
+  },
+  {
+    "username": "batman2",
+    "role": "assassin",
+    "minPasswordLength": 2,
+    "location": "CN",
+    "inUse": true
+  },
+  {
+    "username": "cat woman",
+    "role": "killer",
+    "minPasswordLength": 2,
+    "location": "CN",
+    "inUse": false
+  },
+  {
+    "username": "brian",
+    "role": "developer",
+    "minPasswordLength": 4,
+    "location": "CN",
+    "inUse": false
+  },
+  {
+    "username": "garfield",
+    "role": "kitty cat",
+    "minPasswordLength": 2,
+    "location": "abu dhabi",
+    "inUse": true
+  }
+]
